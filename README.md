@@ -1,4 +1,4 @@
-# aloe
+# Testing Vuex
 
 ## Project setup
 ```
